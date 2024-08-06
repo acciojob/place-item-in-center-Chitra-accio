@@ -3,11 +3,11 @@
 	height:10vh;
 	display:flex;
 	align-items:center;
+    justify-content:center;
 }
 .item-1{
 	width:100px;
 	height:100px;
 	background-color:red;
 	padding:80px;
-    justify-content:center;
 }
